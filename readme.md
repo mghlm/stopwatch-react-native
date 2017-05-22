@@ -1,3 +1,3 @@
-#### Stopwatch
+## Stopwatch
 
-# A native iOS stopwatch application, made with React Native. 
+##### A native iOS stopwatch application, made with React Native. 
