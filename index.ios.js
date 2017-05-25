@@ -70,7 +70,7 @@ var StopWatch = React.createClass({
     var lap = this.state.timeElapsed;
 
     this.setState({
-      startTime: new Date(),
+      // startTime: new Date(),
       laps: this.state.laps.concat([lap])
     });
   },
